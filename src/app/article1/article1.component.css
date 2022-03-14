@@ -1,0 +1,13 @@
+.article1 {
+  display: table ;
+  color: #dde9f8;
+  background: rgba(67, 69, 100, 0.67);
+  box-shadow: 0 0 5px 2px rgba(189, 195,199, 1);
+  font-size:xx-large;
+  font-weight: bold;
+  text-align: center ;
+  justify-content: center;
+  height: 204px;
+  padding-top: 50px;
+  grid-column: 1 / -1;
+}
