@@ -3,8 +3,13 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
 ## Dashboard von Sener und Azmi
-Hier ist eine Vorschau von dem Projekt. 
+Hier ist eine Vorschau von dem Projekt.   
+Das Projekt wurde mit Angular realisiert.  <br>  
 ![dashboard](/pics/dashboard.png)
+
+## Website Mockup
+Das Projekt wurde am Anfang wie am folgenden Bild geplant.  <br> 
+![mockup](/pics/mockup.jpg)
 
 ## Development server
 
