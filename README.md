@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Dashboard von Sener und Azmi
 Hier ist eine Vorschau von dem Projekt.   
 Das Projekt wurde mit Angular realisiert.  
-Es wurden Html, Css, Javascript und Typescript Sprachen benutzt.  <br>
+Es wurden Html, Css, Javascript und Typescript Sprachen benutzt.  <br><br>
 ![dashboard](/pics/dashboard.png)
 
 ## Website Mockup
