@@ -36,7 +36,7 @@ city:string="Basel";
 
           document.querySelector(".icon").src = "https://openweathermap.org/img/wn/" + icon + "@2x.png";
           document.querySelector(".description").innerHTML = description;
-          document.querySelector(".temp").innerHTML = +temp + "°C";
+          document.querySelector(".temp").innerHTML=+Math.round(temp)+"°C";
 
           /*   document.getElementsByClassName("article3").backgroundImage="url('https://source.unsplash.com/1600x900/?landscape')!important" */
         },
